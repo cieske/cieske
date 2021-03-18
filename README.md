@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+I'm currently M.S student at POSTECH GSAI(Mar. 2021~), interested in diverse recommendation
 
 
   <div align=center>
