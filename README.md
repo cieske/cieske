@@ -1,6 +1,11 @@
-### 
+### About me
 
-I'm currently M.S student at POSTECH GSAI(Mar. 2021~), interested in diverse recommendation
+I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
+
+
+### My interests
+  - Recommender system
+    - Diverse recommendation
 
 
   <div align=center>
