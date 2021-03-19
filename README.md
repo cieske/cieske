@@ -1,7 +1,6 @@
 # About me
 
-I'm currently M.S student at POSTECH GSAI(Mar. 2021~) I
-* E-mail: cskwak@postech.ac.kr
+I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 
 
 # My interests
