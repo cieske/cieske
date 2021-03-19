@@ -11,7 +11,7 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **B.S. Degree** | 2014. 3 ~ 2020. 8 | Department of Physics | **Chung-Ang Univ.** |
-| **Research activities** | 2019. 1 ~ 2019. 2 & 2019. 9 ~ 2020. 2 | Undergraduate Research Participant | **Yonsei Univ. MIDaS Lab** |
+| **Research experience** | 2019. 1 ~ 2019. 2 & 2019. 9 ~ 2020. 2 | Undergraduate Research Participant | **Yonsei Univ. MIDaS Lab** |
 | **Work experience** | 2020. 4 ~ 2020. 11 | Data Analyst | **Athlete Media** |
 | **Current** | 2021. 2 ~ | M.S. student | **POSTECH GSAI** |
 
