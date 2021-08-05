@@ -31,4 +31,4 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
   
   </div>
   
-  [![cieske's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieske)](https://github.com/anuraghazra/github-readme-stats)
+  [![cieske's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieske&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
