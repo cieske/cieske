@@ -25,13 +25,13 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=c4b9251a8828469aa366b2bc9c0401c5)](https://www.notion.so/cieske/Recommender-systems-paper-with-brief-summary-171cd4a126774cf6895f2edfb3b21e7c)
 
 
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcieske&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+# Cards
 
-</div>
-<div align="center">
+[![Github Followers](https://img.shields.io/github/followers/cieske?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/cieske?tab=followers)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcieske&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  [![cieske's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieske&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+[![cieske's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieske&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cieske)](https://solved.ac/cieske)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cieske&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
