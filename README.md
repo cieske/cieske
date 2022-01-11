@@ -6,7 +6,7 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 # My interests
 - Recommender system  
   Diverse recommendation  
-  Recommender system with GNN
+  Recommender system with GNN  
   Popularity bias
 
 # Career
