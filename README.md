@@ -7,6 +7,7 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 - Recommender system  
   Diverse recommendation  
   Recommender system with GNN
+  Popularity bias
 
 # Career
 | **Type** | **Date** | **Contents** | **Organization** |
