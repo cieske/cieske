@@ -23,7 +23,7 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 [![Mail Badge](https://img.shields.io/badge/-School%20mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:cskwak@postech.ac.kr)](mailto:cskwak@postech.ac.kr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changsoo-kwak-b07703194/)](https://www.linkedin.com/in/changsoo-kwak-b07703194/)
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://cieske.tistory.com/)](https://cieske.tistory.com/)
-[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=c4b9251a8828469aa366b2bc9c0401c5)](https://www.notion.so/cieske/Recommender-systems-paper-with-brief-summary-171cd4a126774cf6895f2edfb3b21e7c)
+<!-- [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=c4b9251a8828469aa366b2bc9c0401c5)](https://www.notion.so/cieske/Recommender-systems-paper-with-brief-summary-171cd4a126774cf6895f2edfb3b21e7c) -->
 
 
 # Cards
