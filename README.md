@@ -1,6 +1,6 @@
 # About me
 
-I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
+I'm currently working for Samsung Research(2023.1~)
 
 
 # My interests
@@ -15,7 +15,8 @@ I'm currently M.S student at POSTECH GSAI(Mar. 2021~)
 | **B.S. Degree** | 2014. 3 ~ 2020. 8 | Department of Physics | **Chung-Ang Univ.** |
 | **Research experience** | 2019. 1 ~ 2019. 2 & 2019. 9 ~ 2020. 2 | Undergraduate Research Participant | **Yonsei Univ. MIDaS Lab** |
 | **Work experience** | 2020. 4 ~ 2020. 11 | Data Analyst | **Athlete Media** |
-| **Current** | 2021. 2 ~ | GSAI M.S. student | **POSTECH DI Lab** |
+| **M.S. Degree** | 2021. 2 ~ 2023.2 | GSAI | **POSTECH DI Lab** |
+| **Current** | 2021. 2 ~ | CL 2 | **Samsung Research** |
 
 
 # Contact
