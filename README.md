@@ -5,9 +5,11 @@ I'm currently working for Samsung Research(2023.1~)
 
 # My interests
 - Recommender system  
-  Diverse recommendation  
-  Recommender system with GNN  
   Popularity bias
+
+- NLP
+  PII Detecting
+  LLM
 
 # Career
 | **Type** | **Date** | **Contents** | **Organization** |
