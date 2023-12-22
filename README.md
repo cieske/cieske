@@ -7,9 +7,9 @@ I'm currently working for Samsung Research(2023.1~)
 - Recommender system  
   Popularity bias
 
-- NLP
-  PII Detecting
-  LLM
+- NLP  
+  PII Detecting  
+  LLM  
 
 # Career
 | **Type** | **Date** | **Contents** | **Organization** |
