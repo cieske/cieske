@@ -12,7 +12,7 @@ I'm currently working for Samsung Research(2023.1~)
   LLM  
 
 # Career
-| **Type** | **Date** | **Contents** | **Organization** |
+| **Type** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **B.S. Degree** | 2014. 3 ~ 2020. 8 | Department of Physics | **Chung-Ang Univ.** |
 | **Research experience** | 2019. 1 ~ 2019. 2 & 2019. 9 ~ 2020. 2 | Undergraduate Research Participant | **Yonsei Univ. MIDaS Lab** |
