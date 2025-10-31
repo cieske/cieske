@@ -7,8 +7,7 @@ I'm currently working for Samsung Research(2023.1~)
 - Recommender system  
   Popularity bias
 
-- NLP  
-  PII Detecting  
+- AI Safety
   LLM  
 
 # Career
